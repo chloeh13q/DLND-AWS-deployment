@@ -6,4 +6,4 @@ The project creates a simple web app that performs sentiment analysis on movie r
 
 The following diagram demonstrates the setup of this web app:
 
-![web app diagram](Web App Diagram.svg)
+![web app diagram](./Web App Diagram.svg)
